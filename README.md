@@ -2,8 +2,7 @@
 
 ¡Una aplicación web sencilla para sortear amigos secretos! Agrega nombres a la lista y deja que el sistema elija al azar.
 
-![Preview](assets/amigo-secreto.png) *(Reemplaza con una imagen real de tu proyecto)*
-
+![Preview](assets/amigo-secreto.png)  
 ## 🚀 Características
 - **Agregar nombres**: Añade participantes a la lista.
 - **Visualización en tiempo real**: Ve los nombres agregados.
